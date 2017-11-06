@@ -1,24 +1,9 @@
 {
-	"name": "react-native-template-nav-drawer",
-	"author": "Damodar Lohani",
-	"version": "0.0.1",
-	"private": false,
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
+	"name": "react-native-template-navdrawer",
+	"author" :{
+		"name": "Damodar Lohani",
+		"email": "dlohani48@gmail.com",
+		"url": "https://dlohani.com.np"
 	},
-	"dependencies": {
-		"react": "16.0.0",
-		"react-native": "0.50.1",
-		"react-navigation": "^1.0.0-beta.19"
-	},
-	"devDependencies": {
-		"babel-jest": "21.2.0",
-		"babel-preset-react-native": "4.0.0",
-		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0"
-	},
-	"jest": {
-		"preset": "react-native"
-	}
+	"version": "0.0.1"
 }
